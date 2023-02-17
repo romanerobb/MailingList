@@ -1,0 +1,19 @@
+{
+  "name": "mailinglist",
+  "version": "1.0.0",
+  "description": "A mailing list I've created using Express, HTML, CSS, and Mail",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanerobb/MailingList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romanerobb/MailingList/issues"
+  },
+  "homepage": "https://github.com/romanerobb/MailingList#readme"
+}
